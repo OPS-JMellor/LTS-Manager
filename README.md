@@ -1,4 +1,5 @@
-# LTS-Manager
+![LTS Manager Logo](https://img.shields.io/badge/LTS--Manager-Automation-blue?style=for-the-badge&logo=google)
+# LTS-Manager 
 Long-Term Sub Automation for Google Workspace
 
 It handles:
